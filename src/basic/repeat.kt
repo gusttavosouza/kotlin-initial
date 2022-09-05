@@ -8,7 +8,6 @@ fun forTest() {
 }
 
 
-
 fun main() {
     forTest()
 }
